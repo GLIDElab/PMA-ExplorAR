@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MyBoi.unity
+    guid: e82e95a12e3017b4e9b3100368e4e76d
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8e0a8d24018fa884da9d6d50a6299943
+  - enabled: 1
+    path: Assets/Scenes/PuzzlePiece.unity
+    guid: 3e419b3c042199c4cb2f0de4dbfc3925
+  - enabled: 1
+    path: Assets/Scenes/NothingFound.unity
+    guid: 154a110f6667c404b9e885316cb98258
+  - enabled: 0
+    path: 
+    guid: 57ae35fc167dbb840b0fee746574d561
+  - enabled: 1
+    path: Assets/Scenes/profile.unity
+    guid: cf2b7ee6b14c1b8418a09b50d11f4dad
+  - enabled: 1
+    path: Assets/MapScene/map.unity
+    guid: 6e26db1d47d09e34a8008810d234926a
+  - enabled: 1
+    path: Assets/Scenes/database.unity
+    guid: 5aff60e84fa5f9f409860c30b9d748e3

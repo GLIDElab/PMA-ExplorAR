@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\myScripts\ProfileScript.cs">
+    <Files>
+      <File FileName="Assets\myScripts\SwitchScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\myScripts\GameControl.cs" Line="187" Column="21" />
+      <File FileName="Assets\myScripts\AdjustScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\myScripts\ButtonControl.cs" Line="18" Column="25" />
+      <File FileName="Assets\myScripts\ProfileScript.cs" Line="18" Column="3" />
+      <File FileName="Assets\myScripts\PuzzleScript.cs" Line="24" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
